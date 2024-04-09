@@ -3,36 +3,36 @@
 <channels>
 
 
-<channel>
-<name>[B][COLOR blue]     [/COLOR][/B]</name>
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
-<externallink></externallink>
-</channel>
+</item>
 
-<channel>
-<name>[B][COLOR blue]     [/COLOR][/B]</name>
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
-<externallink></externallink>
-</channel>
+</item>
 
-<channel>
-<name>[B][COLOR blue]     [/COLOR][/B]</name>
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
-<externallink></externallink>
-</channel>
+</item>
 
-<channel>
-<name>[B][COLOR blue]     [/COLOR][/B]</name>
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
-<externallink></externallink>
-</channel>
+</item>
 
 </channels>
