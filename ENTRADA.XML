@@ -2,13 +2,6 @@
 
 <channels>
 
-<item>
-<title>[COLOR silver][B] O Corvo Torrent (1994) [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7L5BM54D772PVXWVTKP6DWNTUJAL6LQG</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fEfT3VeJTOGFN08sjpE36oTqoL5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fEfT3VeJTOGFN08sjpE36oTqoL5.jpg</fanart>
-<info>Um ano após ter sido assassinado juntamente com sua noiva por uma gangue, Eric Draven (Brandon Lee), um músico de rock, retorna da sepultura com a ajuda de um misterioso corvo, com a intenção de se vingar de seus assassinos.</info>
-</item>
 
 <channel>
 <name>[B][COLOR blue] Big Horse [/COLOR][/B]</name>
@@ -17,18 +10,6 @@
 <info>[COLOR blue]* [COLOR blue] Bem vindo ao addon Big Horse FILMES [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/FILMES.XML</externallink>
 </channel>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </channels>
