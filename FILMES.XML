@@ -3,7 +3,7 @@
 <items>
 
 <item>
-<title>O Sexto Sentido (1999)</title>
+<title>[COLOR green][B] O Sexto Sentido (1999) [/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/jkrXodGQblizeJV/O_Sexto_Sentido.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ds7jw0WYCd6k7hBzMnzgFsTfg96.jpg</thumbnail>
 <genre>Mistério, Thriller, Drama</genre>
@@ -92,7 +92,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
+<title>[COLOR green][B]  [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
