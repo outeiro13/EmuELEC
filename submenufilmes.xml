@@ -92,8 +92,8 @@
 	
 		<channel>
         <name>[COLOR red][B] TERROR [/COLOR][/B]</name>
-        <thumbnail>https://t.ctcdn.com.br/VZlb0LU2CIQOuo8IYdvwGliPP4U=/640x360/smart/i639776.jpg</thumbnail>
-        <fanart>https://t.ctcdn.com.br/VZlb0LU2CIQOuo8IYdvwGliPP4U=/640x360/smart/i639776.jpg</fanart>
+        <thumbnail>https://t.ctcdn.com.br/VZlb0LU2CIQOuo8IYdvwGliPP4U=/640x360/smart/i639776.jpeg</thumbnail>
+        <fanart>https://t.ctcdn.com.br/VZlb0LU2CIQOuo8IYdvwGliPP4U=/640x360/smart/i639776.jpeg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/TERROR.xml</externallink>
     </channel>
