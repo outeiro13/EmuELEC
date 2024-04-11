@@ -11,7 +11,7 @@
 	
 	
 	<channel>
-        <name>[COLOR SlateBlue1][B] AÇÃO [/COLOR][/B]</name>
+        <name>[COLOR Blue][B] AÇÃO [/COLOR][/B]</name>
         <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
         <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
@@ -19,7 +19,7 @@
     </channel>
 	
 		<channel>
-        <name>[COLOR MediumBlue][B] ANIMAÇÃO [/COLOR][/B]</name>
+        <name>[COLOR rose][B] ANIMAÇÃO [/COLOR][/B]</name>
         <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
         <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
@@ -43,7 +43,7 @@
     </channel>
 	
 		<channel>
-        <name>[COLOR SpringGreen][B] FAMÍLIA [/COLOR][/B]</name>
+        <name>[COLOR Green][B] FAMÍLIA [/COLOR][/B]</name>
         <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
         <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
@@ -51,7 +51,7 @@
     </channel>
 	
 		<channel>
-        <name>[COLOR LimeGreenr][B] GUERRA [/COLOR][/B]</name>
+        <name>[COLOR Limon][B] GUERRA [/COLOR][/B]</name>
         <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
         <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
@@ -67,7 +67,7 @@
     </channel>
 	
 		<channel>
-        <name>[COLOR Goldenrod][B] SUSPENSE [/COLOR][/B]</name>
+        <name>[COLOR Gold][B] SUSPENSE [/COLOR][/B]</name>
         <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
         <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
@@ -75,7 +75,7 @@
     </channel>
 	
 		<channel>
-        <name>[COLOR RosyBrown][B]FICÇÃO[/COLOR][/B]</name>
+        <name>[COLOR Brown][B]FICÇÃO[/COLOR][/B]</name>
         <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
         <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
@@ -91,7 +91,7 @@
     </channel>
 	
 		<channel>
-        <name>[COLOR MediumPurple][B] TERROR [/COLOR][/B]</name>
+        <name>[COLOR Purple][B] TERROR [/COLOR][/B]</name>
         <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
         <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
@@ -99,7 +99,7 @@
     </channel>
 	
 		<channel>
-        <name>[COLOR DarkViolet][B] ROMANCE [/COLOR][/B]</name>
+        <name>[COLOR Violet][B] ROMANCE [/COLOR][/B]</name>
         <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
         <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
@@ -107,7 +107,7 @@
     </channel>
 	
 		<channel>
-        <name>[COLOR Violet][B] BIOGRAFIA [/COLOR][/B]</name>
+        <name>[COLOR dark][B] BIOGRAFIA [/COLOR][/B]</name>
         <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
         <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
