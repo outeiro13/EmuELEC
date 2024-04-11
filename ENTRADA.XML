@@ -5,8 +5,8 @@
 
 <channel>
 <name>[B][COLOR red] Filmes [/COLOR][/B] </name>
-<thumbnail>https:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBcpJHgkq5ZXfFSrDxdd2XmEfP8ZrCYvbCKw&s.jpg</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBcpJHgkq5ZXfFSrDxdd2XmEfP8ZrCYvbCKw&s.jpg</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNoIVMDOK5zI9AKafv3LfEGIm6i7afkd7YUQ&s</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNoIVMDOK5zI9AKafv3LfEGIm6i7afkd7YUQ&s</fanart>
 <info>[COLOR red]* [COLOR blue] Bem vindo ao addon Big Horse Filmes uso pessoal [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/FILMES.XML</externallink>
 </channel>
