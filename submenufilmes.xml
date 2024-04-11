@@ -2,7 +2,7 @@
 	<!-- opicional -->
 	
 	<channel>
-        <name>[COLOR silver][B]Aventura[/COLOR][/B]</name>
+        <name>[COLOR silver][B]AVENTURA[/COLOR][/B]</name>
         <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
         <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
@@ -11,11 +11,179 @@
 	
 	
 	<channel>
-        <name>[COLOR silver][B]Açao[/COLOR][/B]</name>
+        <name>[COLOR silver][B]AÇÃO[/COLOR][/B]</name>
         <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
         <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/A%C3%A7ao.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]ANIMAÇÃO[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/ANIMA%C3%87%C3%83O.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]CRIME[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/CRIME.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]COMÉDIA[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/COM%C3%89DIA.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]FAMÍLIA[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/FAM%C3%8DLIA.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]GUERRA[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/GUERRA.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]NACIONAL[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/NACIONAL.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]SUSPENSE[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/SUSPENSE.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]FICÇÃO[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/FIC%C3%87%C3%83O.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]DRAMA[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/DRAMA.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]TERROR[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/TERROR.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]ROMANCE[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/ROMANCE.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]BIOGRAFIA[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/BIOGRAFIA.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]ANIME[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/ANIME.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]FANTASIA[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/FANTASIA.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]FAROESTE[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/FAROESTE.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]HERÓIS[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/HER%C3%93IS.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]HISTÓRIA[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/HIST%C3%93RIA.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]MISTERIO[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/MISTERIO.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]POLICIAL[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/POLICIAL.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]MUSICAL[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/MUSICAL.xml</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR silver][B]DOCUMENTARIO[/COLOR][/B]</name>
+        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/DOCUMENTARIO.xml</externallink>
     </channel>
 	
 	
