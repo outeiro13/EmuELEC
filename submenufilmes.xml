@@ -3,7 +3,7 @@
 	
 	<channel>
         <name>[COLOR red][B] AVENTURA [/COLOR][/B]</name>
-        <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
+        <thumbnail>https://t.ctcdn.com.br/KxmdThPf_uBgWTEY5MID5ZMkuYQ=/1920x1080/smart/i480972.jpeg</thumbnail>
         <fanart>https://t.ctcdn.com.br/KxmdThPf_uBgWTEY5MID5ZMkuYQ=/1920x1080/smart/i480972.jpeg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/filmes/Aventura.xml</externallink>
@@ -11,7 +11,7 @@
 	
 	
 	<channel>
-        <name>[COLOR Blue][B] AÇÃO [/COLOR][/B]</name>
+        <name>[COLOR red][B] AÇÃO [/COLOR][/B]</name>
         <thumbnail>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</thumbnail>
         <fanart>https://ia600306.us.archive.org/19/items/big-horse/Big%20Horse.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
