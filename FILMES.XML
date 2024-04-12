@@ -3,6 +3,15 @@
 <items>
 
 <item>
+<title>[B][COLOR red]nome [/COLOR] [COLOR purple] Dublado [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<genre></genre>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR red]Trovão Tropical - Tropic Thunder (2008) [/COLOR] [COLOR purple] Dublado [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NFPTOVQETHVP72XO4KSZIUK4FB4WEMOK&dn=SITEDETORRENTS.COM..MKV.Trov%C3%A3o%20Tropical%202008%20WEB-DL%201080p%20OPEN%20MATTE%20x265%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wy7GVLCGTmOgbGvIMChVMNOMNao.jpg</thumbnail>
